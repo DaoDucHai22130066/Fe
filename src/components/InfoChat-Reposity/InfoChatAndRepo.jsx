@@ -5,7 +5,7 @@ import {
     MoreHorizontal, Clock, EyeOff, AlertTriangle, Trash2,
     Image as ImageIcon
 } from 'lucide-react';
-import './InfoChatAndRepo.css';
+import './infoChatAndRepo.css';
 
 // Import Modal Gallery (Đảm bảo đường dẫn này đúng với thư mục của bạn)
 import ImageGalleryModal from '../ChatWindow/ImageGalleryModal';
